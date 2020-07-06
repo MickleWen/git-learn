@@ -1,3 +1,4 @@
 testing remove
 remote update
 test status
+test commit --date
