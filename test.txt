@@ -2,3 +2,7 @@ testing remove
 remote update
 test status
 test commit --date
+<<<<<<< Updated upstream
+=======
+test move
+>>>>>>> Stashed changes
