@@ -3,4 +3,3 @@ remote update
 test status
 test commit --date
 test move
-
