@@ -3,4 +3,4 @@ remote update
 test status
 test commit --date
 test move
-test move dev to master
+test move from dev to master
